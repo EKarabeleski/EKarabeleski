@@ -14,7 +14,7 @@ I'm on the lookout for opportunities to collaborate on innovative projects relat
 I'm always striving to refine my code. If you have any tips or best practices, I'd love to hear them.
 
 ## How to Reach Me
-Feel free to reach out to me at karabele.elena@gmail.com or on https://www.linkedin.com/in/elena-karabeleski-44a660a2/
+Feel free to reach out to me at ekarabeleski@gmail.com or on https://www.linkedin.com/in/elena-karabeleski-44a660a2/
 
 ## Fun Fact
 I play the violin and love to draw parallels between the precision required in QA and the harmony in musical compositions. My motto is: "Delivering excellence in QA is like creating harmony in a musical composition."
